@@ -12,6 +12,8 @@ This is the front-end side, made in React.
 
 You'll need to install and run both the front-end and back-end (using npm or yarn) for making it work properly.
 
+Back-end: [link](https://github.com/pedrorfigueiredo/seu-cantinho-back-end)
+
 ## Install
 
 ```sh

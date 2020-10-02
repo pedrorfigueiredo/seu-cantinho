@@ -8,8 +8,9 @@ Demo: https://seu-cantinho.web.app/
 
 It is an SPA (Single Page Application) served by a RESTful API, using the MERN stack: MongoDB + Express + React + Node.js.
 
-You'll need to install and run both the front-end and back-end (using npm or yarn) for making it work properly.
 This is the front-end side, made in React.
+
+You'll need to install and run both the front-end and back-end (using npm or yarn) for making it work properly.
 
 ## Install
 

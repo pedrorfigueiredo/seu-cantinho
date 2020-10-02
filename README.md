@@ -1,5 +1,7 @@
 # Seu Cantinho Front-end
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Introduction
 
 Demo: [Seu Cantinho](https://seu-cantinho.web.app/)

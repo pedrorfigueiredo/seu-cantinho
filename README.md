@@ -4,7 +4,7 @@
 
 Demo: https://seu-cantinho.web.app/
 
-"Seu Cantinho" is an app prototype about a social network focused on sharing places visited. It is an SPA (Single Page Application) made using the MERN stack: MongoDB + Express + React + Node.js.
+"Seu Cantinho" is an app prototype about a social network focused on sharing places visited. It is an SPA (Single Page Application) served by a RESTful API, using the MERN stack: MongoDB + Express + React + Node.js.
 
 You'll need to install and run both the front-end and back-end (using npm or yarn) for making it works properly.
 This is the front-end part, made with React.
@@ -15,7 +15,7 @@ This is the front-end part, made with React.
 npm install
 ```
 
-## Running the API server
+## Running
 
 ```sh
 npm start

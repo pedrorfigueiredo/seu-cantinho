@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Demo: https://seu-cantinho.web.app/
+Demo: [Seu Cantinho](https://seu-cantinho.web.app/)
 
 "Seu Cantinho" is an app prototype of a social network focused on sharing visited places. 
 
